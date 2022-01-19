@@ -1,10 +1,8 @@
 package main
 
-import "fmt" 
+import "fmt"
 
 //main function will be aytomatically called when you stat the application
-func main(){
+func main() {
 	fmt.Println("Hello World")
 }
-
-
